@@ -1,0 +1,14 @@
+.page {
+    background-color: var(--white);    
+}
+
+.page__header {
+    height: 236px;
+}
+
+.page__footer {
+    height: 325px;
+}
+
+
+

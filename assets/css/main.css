@@ -1,6 +1,7 @@
-/* @import './normalize.css'; */
 @import './reset.css';
 @import '../fonts/fonts.css';
+
+@import '../../components/button/button.css';
 
 :root {
     --white: #ffffff;
@@ -24,6 +25,9 @@
 
     --header-height: 90px;
     --footer-height: 50px;
+
+    --border-radius: 7px;
+    --button-height: 48px;
 }
 
 * {
